@@ -12,7 +12,7 @@
 
 Like the Planck, *sakata* is a 4x12 ortholinear keyboard, representing a straightly-aligned uniform pattern for maximum ergonomics. All the unnecessary keys are removed, trimming down the board down to the essential. Blockers are present at the bottom corners, in a fashion that mirrors HHKB's. The name of the board comes from the [*Shoichi Sakata*](https://en.wikipedia.org/wiki/Shoichi_Sakata), following the convention naming after a physicist (*Max Planck*), and paying homage to the Japanese origin of the HHKB.
 
-*sakata* is powered by [Postage Board Mini](https://geekhack.org/index.php?topic=101460.0), which allows the board to be extra thin and improves the sturdiness of the USB port.
+*sakata* is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comments/cbzwm1/gb_postage_board_mini_the_easiest_and_slimmest/), which allows the board to be extra thin and improves the sturdiness of the USB port.
 
 According to my knowledge, only one copy of this board exists, which was handmade and is currently owned by me.
 
@@ -24,9 +24,9 @@ Information in this repository can hopefully assist other learners and keyboard 
 
 ## Information
 
-Keyboard Maintainer: [Juno Nguyen](https://github.com/junongx)  
-Hardware Supported: [Postage Board Mini](https://geekhack.org/index.php?topic=101460.0).
-Hardware Availability: None, one-time custom handmade.
+* Keyboard Maintainer: [Juno Nguyen](https://github.com/junongx).
+* Hardware Supported: Any controller board (e.g. Teensy, Pro Micro, Postage Board).
+* Hardware Availability: None, one-time custom handmade.
 
 ## Keymap
 
