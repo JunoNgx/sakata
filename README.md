@@ -30,7 +30,7 @@ Publicised information in this repository can hopefully assist other learners an
 
 ## Keymap
 
-The board's matrix will take any universal ortholinear 4x12 keymap from `layouts\community\ortho_4x12\`. This project does not contain any default keymap. My personal keymap `junonum` is tailored and recommended for this board.
+The board's matrix will take any universal ortholinear 4x12 keymap from `layouts\community\ortho_4x12\`. This project does not contain any default keymap. My personal keymap [`junonum`](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ortho_4x12/junonum) is tailored and recommended for this board.
 
 ## Instruction
 
