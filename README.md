@@ -1,10 +1,7 @@
 # sakata
 
-<!--https://imgur.com/a/RSVFZdw-->
-<!--[sakata](https://i.imgur.com/eGACaCH.jpg)-->
-
-![Picture of Sakata with GMK Ocean Dolch](https://i.imgur.com/xFbv2p0.jpg)
-![Picture of the back of Sakata circuitry](https://i.imgur.com/maWd5J0.jpeg)
+![Picture of sakata on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/sakata_front.jpg)
+![Picture of sakata on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/sakata_back.jpg)
 
 ## Overview
 
