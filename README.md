@@ -5,7 +5,7 @@
 
 ## Overview
 
-**sakata** is a custom handwired 40% mechanical keyboard, heavily inspired by the [OLKB Planck](https://olkb.com/collections/planck) and embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/). The project is first publicized in October 2019.
+**sakata** is a custom handwired 40% mechanical keyboard, heavily inspired by the [OLKB Planck](https://olkb.com/collections/planck) and embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/). The project was first publicized in October 2019.
 
 Like the Planck, *sakata* is a 4x12 ortholinear keyboard, implementing a straightly-aligned uniform pattern for maximum ergonomics. All the unnecessary keys are removed, trimming down the board down to the most barebone essential. Blockers are present at the bottom corners, in a fashion that mirrors the HHKB's. The name of the board comes from the [*Shoichi Sakata*](https://en.wikipedia.org/wiki/Shoichi_Sakata), following the convention of naming keyboard after a physicist (*Planck* for *Max Planck*), and paying homage to the Japanese origin of the HHKB.
 
