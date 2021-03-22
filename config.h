@@ -233,4 +233,4 @@
 // #define BOOTMAGIC_LITE_ROW 0
 // #define BOOTMAGIC_LITE_COLUMN 0
 
-#define C6_AUDIO
+#define AUDIO_PIN C6
