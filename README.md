@@ -31,12 +31,6 @@ The board's matrix will take any universal ortholinear 4x12 keymap from `layouts
 
 ## Instruction
 
-1. Clone the standard QMK repository
-2. Move to `cd keyboards` folder
-3. Clone this repository `git clone https://github.com/JunoNgx/sakata.git` here
-
-From a compatible environment (I personally use [MSYS2](https://www.msys2.org/)), navigate to `qmk_firmware` directory and run the `make` command:
-
-    make sakata:junonum
-    
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. For more information about QMK, see [the documentation](https://docs.qmk.fm/#/newbs).
+1. Follow the [instructions from the official docs](https://beta.docs.qmk.fm/tutorial/newbs_getting_started) to setup your QMK environment.
+2. Prepare an `ortho_4x12` compatible keymap. The next step assumes the use of `junonum` keymap.
+3. From the `QMK_MSYS` terminal: `qmk compile -km junonum -kb sakata"
