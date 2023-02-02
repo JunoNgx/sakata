@@ -3,12 +3,12 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x0000
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    novatypist
-#define PRODUCT         sakata
-#define DESCRIPTION     A Planck-inspired 40% ortholinear keyboard that embraces the minimalism of HHKB.
+// #define VENDOR_ID       0xFEED
+// #define PRODUCT_ID      0x0000
+// #define DEVICE_VER      0x0001
+// #define MANUFACTURER    novatypist
+// #define PRODUCT         sakata
+// #define DESCRIPTION     A Planck-inspired 40% ortholinear keyboard that embraces the minimalism of HHKB.
 
 /* key matrix size */
 #define MATRIX_ROWS 4
@@ -26,7 +26,7 @@
 */
 #define MATRIX_ROW_PINS {D5, F6, F7, B0}
 #define MATRIX_COL_PINS {F0, E6, B3, B7, D1, D0, D6, D4, D3, D2, D7, B4}
-#define UNUSED_PINS {B5, B6, C7, B1, B2}
+// #define UNUSED_PINS {B5, B6, C7, B1, B2}
 
 /* COL2ROW, ROW2COL*/
 #define DIODE_DIRECTION COL2ROW

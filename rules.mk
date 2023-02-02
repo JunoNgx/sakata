@@ -1,6 +1,5 @@
 # MCU name
-#MCU = at90usb1286
-MCU = atmega32u4
+# MCU = atmega32u4
 
 # Processor frequency.
 #     This will define a symbol, F_CPU, in all source code files equal to the
@@ -46,7 +45,7 @@ OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
 #   LUFA DFU     lufa-dfu
 #   QMK DFU      qmk-dfu
 #   atmega32a    bootloadHID
-BOOTLOADER = atmel-dfu
+# BOOTLOADER = atmel-dfu
 
 
 # If you don't know the bootloader type, then you can specify the
@@ -81,4 +80,4 @@ AUDIO_ENABLE = yes          # Audio output on port C6
 FAUXCLICKY_ENABLE = no      # Use buzzer to emulate clicky switches
 HD44780_ENABLE = no 		# Enable support for HD44780 based LCDs (+400)
 
-LAYOUTS = ortho_4x12
+# LAYOUTS = ortho_4x12
