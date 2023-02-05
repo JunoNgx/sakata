@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "sakata r",
+    "manufacturer": "novatypist",
+    "maintainer": "JunoNgx",
+    "usb": {
+        "vid": "0xFEEE",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "description": "A Planck-inspired 40% ortholinear keyboard that utilises standard keycaps.",
+    "processor": "atmega32u4",
+    "bootloader": "atmel-dfu",
+    "community_layouts": [ "ortho_4x12" ]
+}
