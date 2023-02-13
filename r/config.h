@@ -16,9 +16,9 @@
 
 #define SOFT_SERIAL_PIN D0 // or D1, D2, D3, E6
 
-#define RGB_DI_PIN B5
+#define RGB_DI_PIN C7
 #ifdef RGB_DI_PIN
-  #define RGBLED_NUM 1
+  #define RGBLED_NUM 16
   #define RGBLIGHT_HUE_STEP 8
   #define RGBLIGHT_SAT_STEP 8
   #define RGBLIGHT_VAL_STEP 8
