@@ -27,6 +27,9 @@
         "backlight": false,
         "audio": true
     },
+    "ws2812": {
+        "pin": "C7"
+    },
     "rgblight": {
         "pin": "C7",
         "led_count": 16,
