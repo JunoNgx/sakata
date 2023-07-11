@@ -37,16 +37,16 @@
         "brightness_steps": 8,
         "saturation_steps": 8,
         "animations": {
-            "alternating": true,
+            "alternating": false,
             "breathing": true,
-            "christmas": true,
-            "knight": true,
-            "rainbow_mood": true,
-            "rainbow_swirl": true,
-            "rgb_test": true,
-            "snake": true,
+            "christmas": false,
+            "knight": false,
+            "rainbow_mood": false,
+            "rainbow_swirl": false,
+            "rgb_test": false,
+            "snake": false,
             "static_gradient": true,
-            "twinkle": true
+            "twinkle": false
         }
     },
     "layouts": {
