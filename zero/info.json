@@ -27,9 +27,6 @@
         "backlight": false,
         "audio": true
     },
-    "audio": {
-        "pin": "C6"
-    },
     "rgblight": {
         "pin": "C7",
         "led_count": 2,
