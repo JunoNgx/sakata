@@ -1,6 +1,6 @@
-#pragma once
+// #pragma once
 
-#include "config_common.h"
+// #include "config_common.h"
 
 // Specifically for Stampy
 // https://docs.keeb.io/stampy-usage-guide
