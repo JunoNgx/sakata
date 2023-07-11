@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "sakata robin",
+    "manufacturer": "novatypist",
+    "maintainer": "JunoNgx",
+    "usb": {
+        "vid": "0xFEEE",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "description": "A Planck-inspired 40% ortholinear keyboard that utilises standard keycaps.",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "community_layouts": [ "ortho_4x12" ]
+}
