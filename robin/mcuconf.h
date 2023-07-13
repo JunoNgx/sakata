@@ -14,6 +14,6 @@
 // #undef RP_PWM_USE_PWM1
 // #define RP_PWM_USE_PWM1 TRUE
 
-// Pin GP7 uses PWM3
-#undef RP_PWM_USE_PWM3
-#define RP_PWM_USE_PWM3 TRUE
+// Pin GP5 uses PWM2
+#undef RP_PWM_USE_PWM2
+#define RP_PWM_USE_PWM2 TRUE

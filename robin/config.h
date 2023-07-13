@@ -13,11 +13,11 @@
 
 // Check the sheet and declare correctly:
 // https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=14
-#define AUDIO_PIN GP7
-#define AUDIO_PWM_DRIVER PWMD3
+#define AUDIO_PIN GP5
+#define AUDIO_PWM_DRIVER PWMD2
 #define AUDIO_PWM_CHANNEL RP2040_PWM_CHANNEL_B
-#define AUDIO_INIT_DELAY
-#define AUDIO_CLICKY
+// #define AUDIO_INIT_DELAY
+// #define AUDIO_CLICKY
 
 // #define DIODE_DIRECTION COL2ROW
 

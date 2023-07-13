@@ -13,8 +13,8 @@
     "community_layouts": [ "ortho_4x12" ],
     "diode_direction": "COL2ROW",
     "matrix_pins": {
-        "rows": [ "GP14", "GP17", "GP0", "GP5" ],
-        "cols": [ "GP16", "GP15", "GP10", "GP15", "GP26", "GP27", "GP28", "GP3", "GP4", "GP24", "GP25", "GP24"]
+        "rows": [ "GP14", "GP8", "GP7", "GP6" ],
+        "cols": [ "GP4", "GP11", "GP10", "GP15", "GP16", "GP17", "GP18", "GP19", "GP20", "GP21", "GP22", "GP23"]
     },
     "ws2812": {
         "pin": "GP20",
