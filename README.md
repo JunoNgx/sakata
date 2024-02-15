@@ -1,5 +1,7 @@
 # sakata
 
+This repository contains the firmware for the **sakata** keyboard series, created by Juno Nguyen.
+
 ## Overview
 **sakata** is a series of custom handwired 40% mechanical keyboards, all of which are heavily inspired by the [OLKB Planck](https://olkb.com/collections/planck), using the 4x12 ortholinear (straightly-aligned) uniform pattern for maximum ergonomics.
 
@@ -45,11 +47,9 @@ The difference between Raime and Robin is even shorter than the difference betwe
 
 That being said, the freedom of being entire self-sustainable without relying on limited parts was worth it.
 
-## This repository
+## Keymap
 
-Due to its unique nature, this keyboard project is not requested to merge to QMK. There is no reason to bloat up a public repository used by millions of people with configuration used by one single board.
-
-Publicised information in this repository can hopefully assist other learners and keyboard enthusiasts in creating their own project.
+Each and every keyboard in the Sakata series take an `ORTHO_4x12`, which is also shared with their original inspiration, the Planck.
 
 ## Information
 
@@ -57,12 +57,12 @@ Publicised information in this repository can hopefully assist other learners an
 * Hardware Supported: Any controller board (e.g. Teensy, Pro Micro, Postage Board).
 * Hardware Availability: None, one-time custom handmade.
 
-## Keymap
-
-The board's matrix will take any universal ortholinear 4x12 keymap from `layouts\community\ortho_4x12\`. This project does not contain any default keymap. My personal keymap [`junonum`](https://github.com/qmk/qmk_firmware/tree/master/layouts/community/ortho_4x12/junonum) is tailored and recommended for this board.
-
 ## Instruction
 
 1. Follow the [instructions from the official docs](https://beta.docs.qmk.fm/tutorial/newbs_getting_started) to setup your QMK environment.
-2. Prepare an `ortho_4x12` compatible keymap. The next step assumes the use of `junonum` keymap.
-3. From the `QMK_MSYS` terminal: `qmk compile -km junonum -kb sakata"
+2. Clone this repository into the `keyboards` directory of the `qmk_firmware` repository (the `handwired` directory is particularly appropriate for this).
+3. Run the flash command with extra flag to enable RGB and compile:
+
+```
+qmk flash -kb sakata/raime -e RGBLIGHT_ENABLE=yes
+```
