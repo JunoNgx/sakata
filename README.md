@@ -23,9 +23,9 @@ Zero is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comm
 ![Picture of sakata rosa on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/rosa_front.jpg)
 ![Picture of sakata rosa on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/rosa_back.jpg)
 
-Earlier known simply as `R` (I wouldn't pretend that I still remember what it meant, though I'm pretty it was something eco-friendly-themed along the line of "recycle" or "realistic") to highlight its friendliness to the process of keycap sourcing, Rosa is most remarkable in its layout, where all keys come from a standard keyboard, and merely rearrange to meet the needs of existing Planck users. This layout subsequently became the hallmark of the series.
+Earlier known simply as `r` (I wouldn't pretend that I still remember what it meant, though I'm pretty sure it was something eco-friendliness, along the line of "recycle" or "realistic") to highlight its friendliness to the process of keycap sourcing, `rosa` is most remarkable in its layout, where all keys come from a standard keyboard, and are merely rearranged to meet the needs of existing Planck users. This layout subsequently became the hallmark of the series.
 
-All of its component were sourced in Singapore. For better or worse, this remains my best wiring work yet as of time of writing.
+All of its component were sourced in Singapore. For better or worse, this remains my best wiring work yet, as of time of writing.
 
 ### robin
 *(July 2022, powered by Keebio's Stampy)*
