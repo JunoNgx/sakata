@@ -14,6 +14,15 @@ Being the first in the series, this board was first only known as `sakata`, and 
 
 *Zero* is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comments/cbzwm1/gb_postage_board_mini_the_easiest_and_slimmest/), which allows the board to be extra thin and improves the sturdiness of the USB port.
 
+### rosa
+*(February 2022, powered by the Postage Board Mini)*
+
+![Picture of sakata rosa on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/rosa_front.jpg)
+
+Earlier known simply as `R` (I wouldn't pretend that I still remember what it meant, though I'm pretty it was something eco-friendly-themed along the line of "recycle" or "realistic") to highlight its friendliness to the process of keycap sourcing, Rosa is most remarkable in its layout, where all keys come from a standard keyboard, and merely rearrange to meet the needs of existing Planck users. This layout subsequently became the hallmark of the series.
+
+All of its component were sourced in Singapore. For better or worse, this remains my best wiring work yet as of time of writing.
+
 ## This repository
 
 Due to its unique nature, this keyboard project is not requested to merge to QMK. There is no reason to bloat up a public repository used by millions of people with configuration used by one single board.
