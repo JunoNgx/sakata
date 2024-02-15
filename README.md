@@ -8,7 +8,7 @@ The name of the board comes from the Japanese scientist [*Shoichi Sakata*](https
 ### zero
 *(October 2019, powered by the Postage Board Mini)*
 
-![Picture of sakata on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/zero_front.jpg)
+![Picture of sakata zero on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/zero_front.jpg)
 
 Being the first in the series, this board was first only known as `sakata`, and `zero` was a retroactive renaming to differentiate it from its younger siblings. Bearing the most resemblances to Planck, it also embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/) with striking corner blockers. All the unnecessary keys are removed, trimming down the board down to the most barebone essential.
 
