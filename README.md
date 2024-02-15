@@ -1,17 +1,16 @@
 # sakata
 
-![Picture of sakata on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/sakata_front.jpg)
-![Picture of sakata on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/sakata_back.jpg)
-
 ## Overview
+**sakata** is a series of custom handwired 40% mechanical keyboards, all of which are heavily inspired by the [OLKB Planck](https://olkb.com/collections/planck), using the 4x12 ortholinear (straightly-aligned) uniform pattern for maximum ergonomics.
 
-**sakata** is a custom handwired 40% mechanical keyboard, heavily inspired by the [OLKB Planck](https://olkb.com/collections/planck) and embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/). The project was first publicized in October 2019.
+The name of the board comes from the Japanese scientist [*Shoichi Sakata*](https://en.wikipedia.org/wiki/Shoichi_Sakata), following the convention of naming keyboard after a physicist (*Planck* for *Max Planck*), and paying homage to the Japanese origin of the HHKB (which was the first iteration of this series).
 
-Like the Planck, *sakata* is a 4x12 ortholinear keyboard, implementing a straightly-aligned uniform pattern for maximum ergonomics. All the unnecessary keys are removed, trimming down the board down to the most barebone essential. Blockers are present at the bottom corners, in a fashion that mirrors the HHKB's. The name of the board comes from the [*Shoichi Sakata*](https://en.wikipedia.org/wiki/Shoichi_Sakata), following the convention of naming keyboard after a physicist (*Planck* for *Max Planck*), and paying homage to the Japanese origin of the HHKB.
+### zero
+*(October 2010, powered by the Postage Board Mini)*
 
-*sakata* is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comments/cbzwm1/gb_postage_board_mini_the_easiest_and_slimmest/), which allows the board to be extra thin and improves the sturdiness of the USB port.
+Being the first in the series, this board was first only known as `sakata`, and `zero` was a retroactive renaming to differentiate it from its younger siblings. Bearing the most resemblances to Planck, it also embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/) with striking corner blockers. All the unnecessary keys are removed, trimming down the board down to the most barebone essential.
 
-According to my knowledge, only one copy of this board exists, which was handmade and is currently owned by me.
+*Zero* is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comments/cbzwm1/gb_postage_board_mini_the_easiest_and_slimmest/), which allows the board to be extra thin and improves the sturdiness of the USB port.
 
 ## This repository
 
