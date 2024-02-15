@@ -38,7 +38,7 @@ This board exists solely because [Keebio's Stampy](https://keeb.io/products/stam
 Largely very similar to Rosa, `robin` refined the layout, refined the construction, used carbon fiber plate, added hotswap modules, and removed all the unnecessary clutters for maximum effectiveness. This board, today, is very much similar to when it was first made.
 
 ### raime
-*(December 2022, powered by the Spinkly)
+*(December 2022, powered by the Spinkly)*
 
 ![Picture of sakata raime on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/raime_front.jpg)
 ![Picture of sakata raime on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/raime_back.jpg)
