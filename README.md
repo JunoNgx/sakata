@@ -28,14 +28,14 @@ Earlier known simply as `R` (I wouldn't pretend that I still remember what it me
 All of its component were sourced in Singapore. For better or worse, this remains my best wiring work yet as of time of writing.
 
 ### robin
-*(July 2022, powered by the Keebio Stampy)*
+*(July 2022, powered by Keebio's Stampy)*
 
 ![Picture of sakata robin on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/robin_front.jpg)
 ![Picture of sakata robin on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/robin_back.jpg)
 
-This board exists solely because Keebio's [Stampy](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring) exists, and Stampy existed because I nudged Danny (the owner of Keebio) to do it.
+This board exists solely because [Keebio's Stampy](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring) exists, and Stampy existed because I nudged Danny (the owner of Keebio) to do it.
 
-Largely very similar to Rosa, Robin refined the layout, refined the construction, used carbon fiber plate, added hotswap modules, and removed all the unnecessary clutters for maximum effectiveness. This board, today, is very much the same when it was first made.
+Largely very similar to Rosa, Robin refined the layout, refined the construction, used carbon fiber plate, added hotswap modules, and removed all the unnecessary clutters for maximum effectiveness. This board, today, is very much similar to when it was first made.
 
 ### raime
 *(December 2022, powered by the Spinkly)
