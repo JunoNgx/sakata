@@ -15,7 +15,7 @@ The name of the board comes from the Japanese scientist [*Shoichi Sakata*](https
 
 Being the first in the series, this board was first only known as `sakata`, and `zero` was a retroactive renaming to differentiate it from its younger siblings. Bearing the most resemblances to Planck, it also embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/) with striking corner blockers. All the unnecessary keys are removed, trimming down the board down to the most barebone essential.
 
-*Zero* is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comments/cbzwm1/gb_postage_board_mini_the_easiest_and_slimmest/), which allows the board to be extra thin and improves the sturdiness of the USB port.
+Zero is powered by [Postage Board Mini](https://www.reddit.com/r/mechmarket/comments/cbzwm1/gb_postage_board_mini_the_easiest_and_slimmest/), which allows the board to be extra thin and improves the sturdiness of the USB port.
 
 ### rosa
 *(February 2022, powered by the Postage Board Mini)*
