@@ -35,7 +35,7 @@ All of its component were sourced in Singapore. For better or worse, this remain
 
 This board exists solely because [Keebio's Stampy](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring) exists, and Stampy existed because I nudged Danny (the owner of Keebio) to do it.
 
-Largely very similar to Rosa, Robin refined the layout, refined the construction, used carbon fiber plate, added hotswap modules, and removed all the unnecessary clutters for maximum effectiveness. This board, today, is very much similar to when it was first made.
+Largely very similar to Rosa, `robin` refined the layout, refined the construction, used carbon fiber plate, added hotswap modules, and removed all the unnecessary clutters for maximum effectiveness. This board, today, is very much similar to when it was first made.
 
 ### raime
 *(December 2022, powered by the Spinkly)
