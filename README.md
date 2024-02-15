@@ -11,6 +11,7 @@ The name of the board comes from the Japanese scientist [*Shoichi Sakata*](https
 *(October 2019, powered by the Postage Board Mini)*
 
 ![Picture of sakata zero on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/zero_front.jpg)
+![Picture of sakata zero on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/zero_back.jpg)
 
 Being the first in the series, this board was first only known as `sakata`, and `zero` was a retroactive renaming to differentiate it from its younger siblings. Bearing the most resemblances to Planck, it also embraces the minimalistic philosophy of the [HHKB](https://happyhackingkb.com/) with striking corner blockers. All the unnecessary keys are removed, trimming down the board down to the most barebone essential.
 
@@ -20,6 +21,7 @@ Being the first in the series, this board was first only known as `sakata`, and 
 *(February 2022, powered by the Postage Board Mini)*
 
 ![Picture of sakata rosa on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/rosa_front.jpg)
+![Picture of sakata rosa on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/rosa_back.jpg)
 
 Earlier known simply as `R` (I wouldn't pretend that I still remember what it meant, though I'm pretty it was something eco-friendly-themed along the line of "recycle" or "realistic") to highlight its friendliness to the process of keycap sourcing, Rosa is most remarkable in its layout, where all keys come from a standard keyboard, and merely rearrange to meet the needs of existing Planck users. This layout subsequently became the hallmark of the series.
 
@@ -29,6 +31,7 @@ All of its component were sourced in Singapore. For better or worse, this remain
 *(July 2022, powered by the Keebio Stampy)*
 
 ![Picture of sakata robin on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/robin_front.jpg)
+![Picture of sakata robin on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/robin_back.jpg)
 
 This board exists solely because Keebio's [Stampy](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring) exists, and Stampy existed because I nudged Danny (the owner of Keebio) to do it.
 
@@ -38,6 +41,7 @@ Largely very similar to Rosa, Robin refined the layout, refined the construction
 *(December 2022, powered by the Spinkly)
 
 ![Picture of sakata raime on the front](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/raime_front.jpg)
+![Picture of sakata raime on the back](https://raw.githubusercontent.com/JunoNgx/sakata/master/_images/raime_back.jpg)
 
 On a very random day, in the autumn of 2022, upon staring very long and deep into the back of Robin, I realised that there was enough space for squeeze in Pro Micro, and a new idea was born.
 
