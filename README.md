@@ -45,7 +45,7 @@ Largely very similar to Rosa, Robin refined the layout, refined the construction
 
 On a very random day, in the autumn of 2022, upon staring very long and deep into the back of Robin, I realised that there was enough space for squeeze in Pro Micro, and a new idea was born.
 
-While immensely enjoyed the robustness of Postage Board Mini and Stampy, the limited availability of these controllers were a point of anxiety, and being sustainable was a desirable goal to pursue. Which mmeans using purely non-specialised common components such as the Pro Micro among its many alternatives. I eventually achieved it with Raime, while not compromising on the board's thickness and construction.
+While immensely enjoyed the robustness of Postage Board Mini and Stampy, the limited availability of these controllers was a point of anxiety, and being sustainable was a desirable goal to pursue. Which mmeans using purely non-specialised common components, such as the Pro Micro, among its many alternatives. I eventually achieved it with Raime, while not compromising on the board's thickness and construction.
 
 The difference between Raime and Robin is even shorter than the difference between Robin and Rosa, and it is mainly the controller. Originally planned to be Keebio Helios, I found a local deal for a pair of [Splinkys](https://github.com/Bastardkb/Splinky), which perfectly met my needs. Giving up on a handwiring-specific controller did come with compromises, and I wouldn't pretend it was fun (hot glue came to the rescue, and the port ended up crooked). My wiring work also had a downgrade.
 
